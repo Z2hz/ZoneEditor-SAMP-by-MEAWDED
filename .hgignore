@@ -1,0 +1,4 @@
+syntax: glob
+bin
+obj
+SA MAP.v12.suo
