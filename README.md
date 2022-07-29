@@ -1,0 +1,1 @@
+# ZoneEditor-SAMP-by-MEAWDED
