@@ -1,2 +1,2 @@
-# ZoneEditor-SAMP-by-MEAWDED
+# ZoneEditor-SAMP
 * สร้างจุด Zone ใน SAMP
